@@ -1,0 +1,29 @@
+{
+  "name": "testess",
+  "version": "1.0.0",
+  "description": "Example Express app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reVVdeveloper/testess.git"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "keywords": [
+    "express",
+    "testess",
+    "test",
+    "example"
+  ],
+  "author": "reVVdeveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reVVdeveloper/testess/issues"
+  },
+  "homepage": "https://github.com/reVVdeveloper/testess#readme"
+}
